@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Currency Converter</string>
+    <string name="currency_exchange">Currency Exchange</string>
+    <string name="enter_your_amount_here">Enter your amount here</string>
+    <string name="reset_btn">reset_btn</string>
+    <string name="this_is_convert_btn">this_is_convert_btn</string>
+    <string name="enter_result_is_here">Enter Result is here</string>
 
     <string-array name="currencies_array">
         <item>ADA</item>
